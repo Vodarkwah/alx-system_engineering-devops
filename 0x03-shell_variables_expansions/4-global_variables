@@ -1,2 +1,2 @@
 #!/bin/bash
-HTBN=89
+printenv
